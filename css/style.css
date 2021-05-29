@@ -1,6 +1,6 @@
 .title{
     font-family: pixel;
-    color: #ECECEC;
+    color: #000000;
     font-size: 50px;
     text-align: left;
 }
@@ -24,9 +24,13 @@
     text-align: center;
 }
 body{
+    /* background-color: #607d8b; */
+    background-color: #d4af37;
+}
+.punks2{
+    text-align: center;
     background-color: #607d8b;
 }
-
 
 .bottom{
     /* right: 0px;
@@ -35,6 +39,7 @@ body{
     padding-top: 35px;
     padding-bottom: 20px;
     text-align: right;
+    background-color: #607d8b;
   }
 
 @font-face {
@@ -43,7 +48,7 @@ body{
   }
 
 
-.tour{
+/* .tour{
       text-align: center;
       padding-top: 10px;
   }
@@ -51,4 +56,4 @@ body{
 .tour2{
     text-align: center;
     padding-top: 30px;
-}
+} */
