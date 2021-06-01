@@ -22,16 +22,20 @@
 }
 .punks{
     text-align: center;
+    background-color: #d4af37;
 }
 body{
-    /* background-color: #607d8b; */
-    background-color: #d4af37;
+    background-color: #607d8b;
+    /* background-color: #d4af37; */
 }
 .punks2{
     text-align: center;
     background-color: #607d8b;
 }
 
+.tops{
+    background-color: #d4af37;
+}
 .bottom{
     /* right: 0px;
     bottom: 25px;
