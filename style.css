@@ -32,9 +32,13 @@ body{
     text-align: center;
     background-color: #607d8b;
 }
+.punks3{
+    text-align: center;
+    background-color: #ba68c8;
+}
 
 .tops{
-    background-color: #d4af37;
+    background-color: #ba68c8;
 }
 .bottom{
     /* right: 0px;
