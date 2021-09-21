@@ -58,6 +58,21 @@ body{
     background-color: #607d8b;
   }
 
+
+.socials{
+    
+    /* right: 0; */
+    top: 20%;
+    position: fixed;
+    
+}
+
+@media only screen and (min-width: 800px) {
+    .socials{
+        text-align: left;
+        position: fixed
+  }
+}
 @font-face {
     font-family: pixel;
     src: url(slkscr.ttf);
