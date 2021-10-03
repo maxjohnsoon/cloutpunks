@@ -48,8 +48,12 @@ body{
     text-align: center;
     background-color: #9bcaf5 ;
 }
+.punks7{
+    text-align: center;
+    background-color: #ff8965;
+}
 .tops{
-    background-color: #9bcaf5;
+    background-color: #ff8965;
 }
 .bottom{
     /* right: 0px;
