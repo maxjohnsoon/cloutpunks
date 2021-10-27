@@ -56,9 +56,14 @@ body{
     text-align: center;
     background-color: #5c4c7b;
 }
+.punks9{
+    text-align: center;
+    background-color: #9e9e9e;
+}
+
 
 .tops{
-    background-color: #5c4c7b;
+    background-color: #9e9e9e;
 }
 .bottom{
     /* right: 0px;
