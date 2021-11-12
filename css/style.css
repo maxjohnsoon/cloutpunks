@@ -64,10 +64,14 @@ body{
     text-align: center;
     background-color: #284734;
 }
-
+.painting{
+    text-align: center;
+    background-color: #284734;
+}
 
 .tops{
     background-color: #284734;
+    padding-bottom: 10px;
 }
 .bottom{
     /* right: 0px;
