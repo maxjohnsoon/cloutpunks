@@ -1,6 +1,6 @@
 .title{
     font-family: pixel;
-    color: white;
+    color: black;
     font-size: 50px;
     text-align: left;
 }
@@ -68,9 +68,13 @@ body{
     text-align: center;
     background-color: #284734;
 }
+.punks11{
+    text-align: center;
+    background-color: #ffb84d;
+}
 
 .tops{
-    background-color: #284734;
+    background-color: #ffb84d;
     padding-bottom: 10px;
 }
 .bottom{
